@@ -1,0 +1,24 @@
+{
+  "name": "@abd_basit/cli-number-guessing-game",
+  "version": "1.0.10",
+  "description": "CLI Number guessing game",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abdul Basit Khalsai",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.7"
+  },
+  "dependencies": {
+    "@abd_basit/cli-number-guessing-game": "^1.0.3",
+    "inquirer": "^9.2.18"
+  }
+}

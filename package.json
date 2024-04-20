@@ -1,6 +1,6 @@
 {
   "name": "@abd_basit/cli-number-guessing-game",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "CLI Number guessing game",
   "main": "index.js",
   "type": "module",
@@ -18,7 +18,7 @@
     "@types/node": "^20.12.7"
   },
   "dependencies": {
-    "@abd_basit/cli-number-guessing-game": "^1.0.3",
+    "@abd_basit/cli-number-guessing-game": "^1.0.11",
     "inquirer": "^9.2.18"
   }
 }
